@@ -1,6 +1,27 @@
-/* Regolle generali */
+/* Regole generali */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+body{
+    background-color: lightblue;
+    font-family: 'Inter Tight', sans-serif;
+}
+#container{
+    padding-bottom: 15px;
+    background-color: white;
+}
+#container #logo {
+    vertical-align: bottom;
+   
+  
+
+}
+#title {
+    
+    display: inline-block;
+    font-size: 45px;
+    vertical-align: bottom;
+    
 }

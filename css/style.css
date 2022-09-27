@@ -65,7 +65,7 @@ body{
     background-color: white;
     border-radius: 5px;
     width: 70%;
-    height: 450px;
+    height: 500px;
     margin: auto;
  
     margin-top: 1px;
@@ -99,8 +99,23 @@ body{
     padding-right: 7px;
 }
 
-.purple{
-    background-color: purple;
+.color{
+    background-color: #45abea;
+}
+.color-1{
+    background-color: #9c72e4;
+}
+.color-2{
+    background-color: #64c0a9;
+}
+.color-3{
+    background-color: #f29e33;
+}
+.color-4{
+    background-color: #d863a1;
+}
+.color-5{
+    background-color: #b0c926;
 }
 .today{
     margin-top: 10px;
@@ -108,4 +123,9 @@ body{
 .task-3 ,.task-4{
     margin-top: 10px;
     margin-left: 50px;
+}
+footer{
+    text-align: center;
+    font-size: 50px;
+    color: black;
 }

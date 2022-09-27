@@ -14,14 +14,18 @@ body{
 }
 #container #logo {
     vertical-align: bottom;
-   
-  
-
-}
+   }
+   #logo{
+    padding-left: 10px;
+   }
 #title {
-    
-    display: inline-block;
+     display: inline-block;
     font-size: 45px;
     vertical-align: bottom;
-    
+}
+#container-1{
+    width: 70%;
+    border: solid 1px black;
+    margin: auto;
+    margin-top: 50px;
 }
